@@ -9,7 +9,7 @@ import java.util.Scanner;
 class Frame {
 	//start time and end time of frame
 	int start, end, frameSize;
-	Arraylist<Task> al;
+	ArrayList<Task> al;
 	Frame(int s, int e) {
 		start = s;
 		end = e;
